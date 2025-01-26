@@ -22,7 +22,8 @@ Work experience
 *Generative AI Software Developer* | Aug 2024 - Present
 - Developing multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
-**University of Maryland, College Park** - Dept. of Statistics
+**University of Maryland, College Park** - Dept. of 
+Statistics
 *Machine Learning Researcher* | Aug 2024 - Present
 - Implemented intrinsic Gaussian processes with heat kernel mapping and manifold regularization for advanced classification
 - Enhanced image generation through conditional GANs with novel penalty-based objective functions
