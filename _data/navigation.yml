@@ -7,7 +7,7 @@
 main:
   - title: "About Me"
     url: /about me/
-    
+
   - title: "Projects"
     url: /projects/
 
@@ -15,7 +15,7 @@ main:
     url: /research/    
 
   - title: "Resume"
-    url: /files/Aryab_ar-2.pdf    
+    url: /files/Aryan_ar-2.pdf    
     
   # - title: "Portfolio"
   #   url: /portfolio/
