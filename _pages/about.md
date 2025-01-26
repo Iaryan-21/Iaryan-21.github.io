@@ -13,7 +13,7 @@ My current work lies at the intersection of AI, Deep Learning, Computer Vision a
 
 I'm a Robotics Graduate Student at the [University of Maryland](https://robotics.umd.edu) and Generative AI Engineer at the [Multimodal Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, U.S. Department of Commerce](https://www.nist.gov).
 
-## Research Focus
+## Focus
 
 My work lies at the intersection of artificial intelligence and robotics, with particular emphasis on:
 - Deep Learning Architectures
@@ -21,7 +21,7 @@ My work lies at the intersection of artificial intelligence and robotics, with p
 - Natural Language Processing
 - Multimodal AI Integration
 
-## Technical Expertise
+## Expertise
 
 I specialize in developing and deploying AI solutions from conception to implementation, with experience spanning:
 - Advanced Image Processing
