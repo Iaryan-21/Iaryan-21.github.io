@@ -18,7 +18,7 @@ redirect_from:
 ## 💼 Work Experience
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
-**Generative AI Software Developer** | *(Aug 2024 – Present)*  
+**Generative AI Software Developer** | *(Nov 2024 – Present)*  
 - 🔑 Developing a multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
 **University of Maryland, College Park – Dept. of Statistics**  
