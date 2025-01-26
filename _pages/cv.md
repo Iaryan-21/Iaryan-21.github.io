@@ -36,15 +36,21 @@ Statistics
 
 Skills
 ======
-| **Category**                | **Skills / Tools**                                                                                                  |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Programming**             | Python, C++, Rust, SQL, CUDA                                                                                        |
-| **Libraries**               | TensorFlow, PyTorch, JAX, NumPy, Pandas, Matplotlib, Seaborn, Pillow, Scikit-Learn, OpenCV, LangChain, Hugging Face |
-| **Robotics Architecture**   | Robot Operating System (ROS), Gazebo, RVIZ, Moveit                                                                  |
-| **Deep Learning & A.I.**    | Semi-Supervised Learning, CNN, RNN, LSTM, GAN, StyleGAN, Transformers, Vision Transformers, LLMs, Diffusion Models  |
-| **Cloud Development**       | AWS (Sagemaker, S3), MLOps                                                                                         |
-| **Computer Architecture**   | Linux, Git/GitHub, Docker                                                                                          |
-| **Domain Skills**           | Robot Perception & Localization, Deep Learning, Computer Vision, AI, Microsoft Suite, Content Writing               |
+## Core Technologies
+- **Languages**: Python, C++, Rust, SQL, CUDA
+- **Cloud & DevOps**: AWS (SageMaker, S3), MLOps, Docker, Git/GitHub
+- **Systems**: Linux, Microsoft Suite
+
+## Machine Learning & AI
+- **Deep Learning**: CNN, RNN, LSTM, Vision Transformers, LLMs, Diffusion Models
+- **Frameworks**: PyTorch, TensorFlow, JAX, Hugging Face
+- **Techniques**: Semi-Supervised Learning, GANs, StyleGAN, Transformers
+- **Data Science**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+## Robotics & Computer Vision
+- **Robotics**: Robot Operating System (ROS), Gazebo, RVIZ, MoveIt
+- **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
+- **Integration**: LangChain, Custom Vision Pipelines
 
 
 Publications
