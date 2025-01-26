@@ -37,20 +37,21 @@ Statistics
 Skills
 ======
 ## Core Technologies
-- **Languages**: Python, C++, Rust, SQL, CUDA
+- **Programming Languages**: Python, C++, Rust, SQL, CUDA
 - **Cloud & DevOps**: AWS (SageMaker, S3), MLOps, Docker, Git/GitHub
 - **Systems**: Linux, Microsoft Suite
 
 ## Machine Learning & AI
-- **Deep Learning**: CNN, RNN, LSTM, Vision Transformers, LLMs, Diffusion Models
+- **Deep Learning**: Neural Nets, CNN, RNN, LSTM, Transformers, LLMs
 - **Frameworks**: PyTorch, TensorFlow, JAX, Hugging Face
-- **Techniques**: Semi-Supervised Learning, GANs, StyleGAN, Transformers
-- **Data Science**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- **Generative** :  GANs, RAG, Diffusion Models, Flow Matching, Flux Models
+- **Techniques**: Supervised, Un-Supervised, Semi-Supervised Learning
+- **Python Core Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 ## Robotics & Computer Vision
 - **Robotics**: Robot Operating System (ROS), Gazebo, RVIZ, MoveIt
 - **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
-- **Integration**: LangChain, Custom Vision Pipelines
+
 
 
 Publications
