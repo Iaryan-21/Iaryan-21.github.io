@@ -7,10 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics graduate student at the [University of Maryland](https://robotics.umd.edu). I also work as a Generative AI Engineer at the [Multimodal Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, US DOC](https://www.nist.gov). 
+<!-- I am a Robotics graduate student at the [University of Maryland](https://robotics.umd.edu). I also work as a Generative AI Engineer at the [Multimodal Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, US DOC](https://www.nist.gov). 
 
-My current work lies at the intersection of AI, Deep Learning, Computer Vision and Natural Language Processing. I have experience in developing and deploying AI architectures from ideation to user usage. I have taken up projects spanning from Image Processing to Robotics Development. 
+My current work lies at the intersection of AI, Deep Learning, Computer Vision and Natural Language Processing. I have experience in developing and deploying AI architectures from ideation to user usage. I have taken up projects spanning from Image Processing to Robotics Development.  -->
 
+I'm a Robotics Graduate Student at the [University of Maryland](https://robotics.umd.edu) and Generative AI Engineer at the [Multimodal Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, U.S. Department of Commerce](https://www.nist.gov).
+
+## Research Focus
+
+My work lies at the intersection of artificial intelligence and robotics, with particular emphasis on:
+- Deep Learning Architectures
+- Computer Vision Systems
+- Natural Language Processing
+- Multimodal AI Integration
+
+## Technical Expertise
+
+I specialize in developing and deploying AI solutions from conception to implementation, with experience spanning:
+- Advanced Image Processing
+- Robotics Development
+- Large Language Models
+- Neural Architecture Design
+- System Integration
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
