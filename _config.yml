@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aryan's Homepage"
+title                    : "Aryan"
 title_separator          : "-"
 name                     : &name "Aryan Mishra"
 description              : &description "personal description"
