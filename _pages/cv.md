@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **University of Maryland, College Park: M.Eng in Robotics**  (Expected: May 2025)
-* **Vellore Institute of Technology: B.Tech in Electronics and Communication**  (June 2023)
+* **University of Maryland, College Park**: *M.Eng in Robotics*(Expected: May 2025)
+* **Vellore Institute of Technology**: *B.Tech in Electronics and Communication* (June 2023)
 
 
 Work experience
