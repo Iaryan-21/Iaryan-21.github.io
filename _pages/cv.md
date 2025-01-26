@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education : 
 ======
 * **University of Maryland, College Park**: *M.Eng in Robotics*(Expected: May 2025)
 * **Vellore Institute of Technology**: *B.Tech in Electronics and Communication* (June 2023)
 
 
-Work experience
+Work Experience : 
 ======
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
@@ -34,7 +34,7 @@ Statistics
 - Engineered soft robotic grippers using 3D printing, developing ML models to predict object properties from PV curves and tactile data
 
 
-Skills
+Skills : 
 ======
 ## Core Technologies
 - **Programming Languages**: Python, C++, Rust, SQL, CUDA
@@ -68,7 +68,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Certifications
+Certifications : 
 ======
 * Human Subjects Research (HSR) , Non-Clinical Researchers (IT, SBER, Engineering, etc) - CITI Program.
 * CPR/AED for Professional Rescuers with First Aid - RED CROSS.
