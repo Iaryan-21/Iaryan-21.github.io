@@ -23,10 +23,10 @@ My work lies at the intersection of artificial intelligence and robotics, with p
 
 ## Expertise
 
-I specialize in developing and deploying AI solutions from conception to implementation, with experience spanning:
-- Advanced Image Processing
+I have experience in developing and deploying AI solutions from conception to implementation, with experience spanning:
+- Image Processing
 - Robotics Development
-- Large Language Models
+- Large Language Models Integration and Development
 - Neural Architecture Design
 - System Integration
 
