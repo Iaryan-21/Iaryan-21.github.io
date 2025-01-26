@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng in Robotics, University of Maryland, College Park (Expected: May 2025)
+* B.Tech in Electronics and Communication, Vellore Institute of Technology (June 2023)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Generative A.I - Software Developer (November 2024 - Present)
+  * National Institute of Standards and Technology, U.S Dept. of Commerce
+  * Work: Part of NIST's Gen A.I program. Responsible for development of pipeline and evaluation metrics to able to identify whether a multi-modal input is authentic or fabricated.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning Researcher (August 2024 - Present)
+  * Dept of Statistics, University of Maryland, College Park
+  * Work: Generated and evaluated high-dimensional data: Used intrinsic Gaussian processes with heat kernel mapping and manifold regularization for classification and regression. Optimized conditional GANs with novel penalty-based objective functions to enhance image realism.
+
+
+* Machine Learning Researcher (January 2024 - December 2024)
+  * Dept of Mechanical Eng., University of Maryland, College Park
+  * Work: Deployed VNET with attention mechanism on the Stanford Type B Aorta Dissection dataset, achieving a Dice Coefficient of 0.80, Jaccard Mean of 76.3, AsD Mean of 0.98, and Dice Overlap of 92.3%. Developed a transformer-based encoder for VNET. Designed soft robotic grippers with 3D-printed bases and machine learning models to predict object properties from Pressure-Volume curves and tactile data.
   
 Skills
 ======
