@@ -18,18 +18,19 @@ Education
 Work experience
 ======
 * National Institute of Standards and Technology, U.S Dept. of Commerce
-  * Generative A.I - Software Developer (November 2024 - Present)
-  * Work: Part of NIST's Gen A.I program. Responsible for development of pipeline and evaluation metrics to able to identify whether a multi-modal input is authentic or fabricated.
+  * Role : Generative A.I - Software Developer (November 2024 - Present)
+  * Work Included: 
+     * Part of NIST's Gen A.I program. Responsible for development of pipeline and evaluation metrics to able to identify whether a multi-modal input is authentic or fabricated.
 
 * Generative A.I - Software Developer (November 2024 - Present)
-  * Machine Learning Researcher (August 2024 - Present)
-  * Work: 
+  * Role : Machine Learning Researcher (August 2024 - Present)
+  * Work Included: 
      * Used intrinsic Gaussian processes with heat kernel mapping and manifold regularization for classification and regression. 
      * Optimized conditional GANs with novel penalty-based objective functions to enhance image realism.
 
 * Dept of Mechanical Eng., University of Maryland, College Park
-  * Machine Learning Researcher (January 2024 - December 2024)
-  * Work: 
+  * Role: Machine Learning Researcher (January 2024 - December 2024)
+  * Work Included : 
     * Deployed VNET with attention mechanism on the Stanford Type B Aorta Dissection dataset. Developed a transformer-based encoder for VNET. 
     * Designed soft robotic grippers with 3D-printed bases and machine learning models to predict object properties from Pressure-Volume curves and tactile data.
   
