@@ -11,8 +11,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Research"
-    url: /research/    
+  # - title: "Research"
+  #   url: /research/    
 
   - title: "Resume"
     url: /files/Aryan_ar-2.pdf    
