@@ -17,18 +17,20 @@ Education
 
 Work experience
 ======
-# WORK EXPERIENCE
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
+
 *Generative AI Software Developer* | Aug 2024 - Present
 - Developing multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
-**University of Maryland, College Park** - Dept. of Statistics 
+**University of Maryland, College Park** - Dept. of Statistics
+
 *Machine Learning Researcher* | Aug 2024 - Present
 - Implemented intrinsic Gaussian processes with heat kernel mapping and manifold regularization for advanced classification
 - Enhanced image generation through conditional GANs with novel penalty-based objective functions
 
 **University of Maryland, College Park** - Dept. of Mechanical Engineering  
+
 *Machine Learning Researcher* | Jan 2024 - Dec 2024
 - Implemented VNET with attention mechanism for Stanford Type B Aorta Dissection dataset, incorporating transformer-based encoder
 - Engineered soft robotic grippers using 3D printing, developing ML models to predict object properties from PV curves and tactile data
