@@ -17,23 +17,23 @@ Education
 
 Work experience
 ======
-* National Institute of Standards and Technology, U.S Dept. of Commerce
-  * Role : Generative A.I - Software Developer (November 2024 - Present)
-  * Work Included: 
-     * Part of NIST's Gen A.I program. Responsible for development of pipeline and evaluation metrics to able to identify whether a multi-modal input is authentic or fabricated.
+# WORK EXPERIENCE
 
-* Generative A.I - Software Developer (November 2024 - Present)
-  * Role : Machine Learning Researcher (August 2024 - Present)
-  * Work Included: 
-     * Used intrinsic Gaussian processes with heat kernel mapping and manifold regularization for classification and regression. 
-     * Optimized conditional GANs with novel penalty-based objective functions to enhance image realism.
+**National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
+*Generative AI Software Developer* | Aug 2024 - Present
+- Developing multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
-* Dept of Mechanical Eng., University of Maryland, College Park
-  * Role: Machine Learning Researcher (January 2024 - December 2024)
-  * Work Included : 
-    * Deployed VNET with attention mechanism on the Stanford Type B Aorta Dissection dataset. Developed a transformer-based encoder for VNET. 
-    * Designed soft robotic grippers with 3D-printed bases and machine learning models to predict object properties from Pressure-Volume curves and tactile data.
-  
+**University of Maryland, College Park** - Dept. of Statistics 
+*Machine Learning Researcher* | Aug 2024 - Present
+- Implemented intrinsic Gaussian processes with heat kernel mapping and manifold regularization for advanced classification
+- Enhanced image generation through conditional GANs with novel penalty-based objective functions
+
+**University of Maryland, College Park** - Dept. of Mechanical Engineering  
+*Machine Learning Researcher* | Jan 2024 - Dec 2024
+- Implemented VNET with attention mechanism for Stanford Type B Aorta Dissection dataset, incorporating transformer-based encoder
+- Engineered soft robotic grippers using 3D printing, developing ML models to predict object properties from PV curves and tactile data
+
+
 Skills
 ======
 ### Programming
@@ -94,11 +94,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -106,6 +102,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Certifications
 ======
-* Currently signed in to 43 different slack teams
+* Human Subjects Research (HSR) , Non-Clinical Researchers (IT, SBER, Engineering, etc) - CITI Program.
+* CPR/AED for Professional Rescuers with First Aid - RED CROSS.
+* 
