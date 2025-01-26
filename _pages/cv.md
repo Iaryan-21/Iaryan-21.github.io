@@ -53,7 +53,7 @@ Skills
 - **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
 
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -66,7 +66,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Certifications
 ======
