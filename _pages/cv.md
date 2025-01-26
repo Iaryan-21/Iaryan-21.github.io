@@ -36,57 +36,16 @@ Statistics
 
 Skills
 ======
-### Programming
-- Python
-- C++
-- Rust
-- SQL
-- CUDA
+| **Category**                | **Skills / Tools**                                                                                                  |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Programming**             | Python, C++, Rust, SQL, CUDA                                                                                        |
+| **Libraries**               | TensorFlow, PyTorch, JAX, NumPy, Pandas, Matplotlib, Seaborn, Pillow, Scikit-Learn, OpenCV, LangChain, Hugging Face |
+| **Robotics Architecture**   | Robot Operating System (ROS), Gazebo, RVIZ, Moveit                                                                  |
+| **Deep Learning & A.I.**    | Semi-Supervised Learning, CNN, RNN, LSTM, GAN, StyleGAN, Transformers, Vision Transformers, LLMs, Diffusion Models  |
+| **Cloud Development**       | AWS (Sagemaker, S3), MLOps                                                                                         |
+| **Computer Architecture**   | Linux, Git/GitHub, Docker                                                                                          |
+| **Domain Skills**           | Robot Perception & Localization, Deep Learning, Computer Vision, AI, Microsoft Suite, Content Writing               |
 
-### Libraries
-- TensorFlow
-- PyTorch
-- JAX
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Pillow
-- Scikit-Learn
-- OpenCV
-- LangChain
-- Hugging Face
-
-### Robotics Architecture & Tools
-- Robot Operating System (ROS)
-- Gazebo
-- RVIZ
-- Moveit
-
-### Deep Learning & A.I. Architectures
-- Semi-Supervised Learning
-- CNN, RNN, LSTM
-- GAN, StyleGAN
-- Transformers & Vision Transformers
-- Large Language Models & Large Multimodal Models
-- Flow Matching & Diffusion Models
-- RLHF
-
-### Cloud Development
-- AWS (Sagemaker, S3)
-- MLOps
-
-### Computer Architecture Tools
-- Linux
-- Git / GitHub
-- Docker
-
-### Domain Skills
-- Robot Perception & Localization
-- Deep Learning & Computer Vision
-- Artificial Intelligence
-- Microsoft Suite
-- Content Writing
 
 Publications
 ======
