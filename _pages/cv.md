@@ -36,12 +36,57 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Programming
+- Python
+- C++
+- Rust
+- SQL
+- CUDA
+
+### Libraries
+- TensorFlow
+- PyTorch
+- JAX
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Pillow
+- Scikit-Learn
+- OpenCV
+- LangChain
+- Hugging Face
+
+### Robotics Architecture & Tools
+- Robot Operating System (ROS)
+- Gazebo
+- RVIZ
+- Moveit
+
+### Deep Learning & A.I. Architectures
+- Semi-Supervised Learning
+- CNN, RNN, LSTM
+- GAN, StyleGAN
+- Transformers & Vision Transformers
+- Large Language Models & Large Multimodal Models
+- Flow Matching & Diffusion Models
+- RLHF
+
+### Cloud Development
+- AWS (Sagemaker, S3)
+- MLOps
+
+### Computer Architecture Tools
+- Linux
+- Git / GitHub
+- Docker
+
+### Domain Skills
+- Robot Perception & Localization
+- Deep Learning & Computer Vision
+- Artificial Intelligence
+- Microsoft Suite
+- Content Writing
 
 Publications
 ======
